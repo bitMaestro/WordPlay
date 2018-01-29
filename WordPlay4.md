@@ -5,8 +5,6 @@ What is the longest palindrome word?  *A word that is spelled the same forwards 
 
 __Solution__
 
-You want to check if the first letter at the beginning is the same as the last, the check to seed if second letter is the same as the second to last, and all the way to the middle.  stopping only when the letter on both ends do not match.
-
 
 
 ```python
