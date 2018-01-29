@@ -6,7 +6,6 @@ What is the longest palindrome word?  *A word that is spelled the same forwards 
 __Solution__
 
 
-
 ```python
 word = 'apple'
 word[0]
